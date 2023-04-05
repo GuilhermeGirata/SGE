@@ -1,2 +1,2 @@
 * linguist-vendored
-dist/*.php linguist-language=php
+*.php linguist-language=php
