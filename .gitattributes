@@ -1,2 +1,2 @@
-dist/*.php linguist-language=php
 * linguist-vendored
+sge/*.php linguist-language=php
