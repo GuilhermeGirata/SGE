@@ -1,2 +1,2 @@
 dist/*.php linguist-language=php
-sge/index.php -linguist-vendored
+index.php -linguist-vendored
