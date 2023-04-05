@@ -1,2 +1,3 @@
 sge/* linguist-vendored
 dist/*.php linguist-language=php
+sge/*.php linguist-language=php
