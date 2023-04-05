@@ -1,2 +1,2 @@
 sge/* linguist-vendored
-sge/*.php linguist-language=php
+*.php linguist-language=php
