@@ -1,1 +1,2 @@
-sge/* linguist-language=php
+sge/dist/*.php linguist-language=php
+sge/index.php linguist-language=php
