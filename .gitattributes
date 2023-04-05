@@ -1,1 +1,2 @@
 dist/*.php linguist-language=php
+* linguist-vendored
